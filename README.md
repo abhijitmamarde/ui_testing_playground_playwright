@@ -1,5 +1,12 @@
 # playwright_github
 
+## Setup
+
+```bash
+uv sync
+uv run playwright install
+```
+
 ### Commands
 
 ```commandline
